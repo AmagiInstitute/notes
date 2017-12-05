@@ -1,12 +1,22 @@
-*Digital CryptoArtifacts*
+* Digital CryptoArtifacts *
 
-We need to be able to manage our portfolios of digital cryptocolectibles on mobile. A topic of digital collectibles as cryptoassets has been explored by a number of projects, but Cryptokitties might open a new era
+Notable projects for digital cryptocollectible assets: 
+Rare Pepe http://rarepepedirectory.com/ 
+and most recent Cryptokitties https://www.cryptokitties.co
+Both appeal to more general public than collectible card games.
+
+** What are technical and UX requirements for cryptoartifacts **
+
+- We need to be able to manage our portfolios of digital cryptocolectibles on mobile. A topic of digital collectibles as cryptoassets has been explored by a number of projects, but Cryptokitties might open a new era
 of cryptocolectibles. I prefer to call them cryptoartifacts. While Rare Pepes are already available on Android, 
 as far as I know non of the Ethereum mobile implementations handle collectibles. 
 
 - Ideally, such client should be able to support existing cryptocollectibles, as well as allow everyone to issue the new ones, by their own rules. To use their own procedural generation algos or custom issuance rules. 
-- Unlike with Cryptokitties, the artifacts should use decentralised storage such as IPFS or Swarm. 
-- Indexing and search can be done by centralised services. In some form of a federated manner. 
+
+- Unlike with Cryptokitties, the artifacts should use decentralised storage such as IPFS or Swarm. This will provide
+better safety of the cryptoartifacts, scalability and accessibility. 
+
+- Indexing and search can be done by centralised services. Perhaps in some federated manner. 
 
 Cryto assets management software was always a bit slow to on UX side,
 and even slower on mobile. Now we have a number of pretty good mobile light clients for btc and ltc.
@@ -30,13 +40,6 @@ For instance, Magic: The Gathering Online eXchange, MtGox.com url later became t
 A topic of digital collectibles as cryptoassets has been explored by a number of projects.
 Some were launched as a Counterparty assets https://bitcointalk.org/index.php?topic=957797.0
 
-
-**Notable Projects**
-
-Here are notable projects for digital cryptocollectible assets: 
-Rare Pepe http://rarepepedirectory.com/ 
-and most recent Cryptokitties https://www.cryptokitties.co
-Both wotk in a browser, not on mobile. Both appeal to more general public than collectible card games.
 
 **Procedural Generation**
 
