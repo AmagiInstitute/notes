@@ -1,11 +1,22 @@
-* Digital CryptoArtifacts *
+***Some notes on Cryptoartifacts***
 
 Notable projects for digital cryptocollectible assets: 
 Rare Pepe http://rarepepedirectory.com/ 
 and most recent Cryptokitties https://www.cryptokitties.co
 Both appeal to more general public than collectible card games.
 
-** What are technical and UX requirements for cryptoartifacts **
+Collectibles were a part of human culture way before money and currency as we know it, and it's not going away. 
+It's, perhaps, not even a good move on my behalf to mention the word money, since the term itslef is confusing.
+Let's ditch for a moment a Wikipedia definition of money. I find it easier and clearer to refer to money and currency as a form of language that people use to express different concepts largely related to value. Money and currencies as we have it now is a rather primitive language, yet, good enough to communicate certain things. For example we don't have to all agree which theory of value creation we find the best to speak money and currency languages. Money discussion is a whole different
+rabbit hole, and let's get back to the kitties. 
+
+Many people found cryptokitties phenomena absurd, but they're slightly missing the point. It's okay, if you
+think that the whole complex concept of value can be reduce it to "can I eat it" or "can I sell it" that's fine.
+
+A few good reads by Nick Szabo would be a good start of the conversation http://unenumerated.blogspot.co.uk/2016/07/artifacts-of-wealth-patterns-in_15.html 
+
+
+**What are technical and UX requirements for cryptoartifacts**
 
 - We need to be able to manage our portfolios of digital cryptocolectibles on mobile. A topic of digital collectibles as cryptoassets has been explored by a number of projects, but Cryptokitties might open a new era
 of cryptocolectibles. I prefer to call them cryptoartifacts. While Rare Pepes are already available on Android, 
@@ -28,7 +39,6 @@ that can support various artifacts, and features that allows to issue new artifa
 
 Before Ethereum ecosystem will be efficiently handling tx load, DPOS systems might be more suitable. 
 
-Collectibles were a part of human culture way before money as we know it, and it's not going away. 
 
 **Little bit of history**
 
